@@ -5,3 +5,10 @@ git log				to know the entire commits log (wont show anything unless committed |
 git commit 			to make a commit
 
 git clone			to clone a repo
+
+
+
+
+
+
+staging area contains the most recent commits 
