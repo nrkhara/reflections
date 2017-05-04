@@ -11,3 +11,10 @@ git log --graph
 				GIT IS COMPLEX BUT IT'S AWESOME			
 
 Git branch -d name	Deletes the branch
+git remote 			to view and create remotes (same as branch but on github)
+git remote add (name_to_be_given) (url of the repository on Github)
+git remote 			Now it will display the remote (name) on execution (same as git branch)
+git remote -v 		displays more details like the push and fetch url's
+
+git push (name_of_the_remote) master(branch to be sent)
+
