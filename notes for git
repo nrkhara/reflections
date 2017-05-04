@@ -13,16 +13,10 @@ git log --graph
 
 
 
-<<<<<<< HEAD
 
-staging area contains the most recent commits 
+
 
 
 
 
 ---------------------------- Intentionally added to make it distinct from the easy-mode branch--------------
-=======
-staging area contains the most recent commits 
-Git branch 			tell the names of the branches
-					(* indicates the place where the changes will be made)
->>>>>>> easy-mode
