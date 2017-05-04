@@ -9,3 +9,5 @@ git checkout		switch between branches
 git log --graph 
 --oneline			show the history of all the comits in that branch
 				GIT IS COMPLEX BUT IT'S AWESOME			
+
+Git branch -d name	Deletes the branch
