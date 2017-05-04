@@ -9,6 +9,7 @@ git checkout		switch between branches
 git log --graph 
 --oneline			show the history of all the comits in that branch
 
+<<<<<<< HEAD
 
 
 
@@ -20,3 +21,7 @@ git log --graph
 
 
 ---------------------------- Intentionally added to make it distinct from the easy-mode branch--------------
+=======
+staging area contains the most recent commits 
+/////////////// Files for Easy mode	////////////////
+>>>>>>> easy-mode
