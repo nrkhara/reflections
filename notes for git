@@ -8,11 +8,7 @@ git clone			to clone a repo
 git checkout		switch between branches
 git log --graph 
 --oneline			show the history of all the comits in that branch
-
-
-
-
-
-staging area contains the most recent commits 
 Git branch 			tell the names of the branches
 					(* indicates the place where the changes will be made)
+
+staging area contains the most recent commits 
