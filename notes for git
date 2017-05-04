@@ -14,4 +14,5 @@ git log --graph
 
 
 staging area contains the most recent commits 
-Git branch 
+Git branch 			tell the names of the branches
+					(* indicates the place where the changes will be made)
