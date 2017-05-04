@@ -1,0 +1,7 @@
+git init			to init a repo
+git add 			to add files to the repo
+git status 			to know the files added and commits to be made (It will show changes to be committed)
+git log				to know the entire commits log (wont show anything unless committed || doesnt wrk on 														simply adding)
+git commit 			to make a commit
+
+git clone			to clone a repo
